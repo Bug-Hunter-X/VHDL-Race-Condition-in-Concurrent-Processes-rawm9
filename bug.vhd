@@ -1,0 +1,1 @@
+In a VHDL design, I encountered a race condition where two processes were attempting to write to the same signal simultaneously without proper synchronization.  This led to unpredictable behavior and intermittent failures.
